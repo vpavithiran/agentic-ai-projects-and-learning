@@ -1,0 +1,16 @@
+langchain
+langgraph 
+langchain-community
+langchain-core
+python-dotenv
+langchain-openai
+langchain-groq
+langchain-community
+langchain-core
+pydantic
+wikipedia
+arxiv
+langgraph-cli[inmem]
+faiss-cpu
+langchain-huggingface
+sentence-transformers
